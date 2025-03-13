@@ -1,3 +1,6 @@
 [submodule "Mobile_RMP"]
 	path = Mobile_RMP
 	url = https://github.com/Egoroshka999/Mobile_RMP.git
+[submodule "Backend_RMP"]
+	path = Backend_RMP
+	url = https://github.com/Egoroshka999/Backend_RMP.git
